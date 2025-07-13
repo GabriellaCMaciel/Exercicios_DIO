@@ -7,10 +7,10 @@ Você terá 3 variáveis. Sendo elas:
 Imprima no console o valor que será gasto para realizar esta viagem.*/
 
 const precoCombustivel = 6.20;
-const KmPorLitro = 10;
+const kmPorLitro = 10;
 const distanciaKm = 100;
 
-const litrosConsumidos = distanciaKm / KmPorLitro;
+const litrosConsumidos = distanciaKm / kmPorLitro;
 
 const valorGasto = litrosConsumidos * precoCombustivel;
 
